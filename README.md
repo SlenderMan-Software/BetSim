@@ -100,14 +100,5 @@ This allows existing single-threaded code to continue working without changes.
 ## License
 MIT License — free to use and modify. Include attribution if you like.
 
----
 
-## Contributing
-Pull requests and improvements are welcome. If you add features (custom thread pools, GPU offload, GraalVM native image, or automatic terminal-width handling), please add usage examples in this README.
 
----
-
-If you want, I can:
-- Add a short `run.sh` script for common configurations,
-- Add an option flag to choose **fast-mode** (analytic estimate) vs full brute-force,
-- Or generate a smaller README variant for GitHub display.
